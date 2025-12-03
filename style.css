@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+}
+
+.mainpage-background {
+    background-image: url("https://w0.peakpx.com/wallpaper/316/210/HD-wallpaper-modern-art-modern-digital-art.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: black;
+}
+
+.page-title {
+    font-family: Google Sans, Arial, San-Serif, Roboto;
+    font-size: 45px;
+}
+
+.page-title-main {
+    display: grid;
+    grid-template-columns: (5, 1fr);
+    grid-template-rows: (2, 100px);
+    grid-row-start: 1;
+}
