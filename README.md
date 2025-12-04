@@ -6,7 +6,7 @@ The webpage mimics a modern art museum where each artwork occupies grid space.
 
 Should contain 3 pages for different themes
 Grid Requirements
-Display  in a responsive .
+Display in a responsive .
 Use:
 grid-template-columns
 gap
