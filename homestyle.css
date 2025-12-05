@@ -3,12 +3,12 @@ body {
     background-image: url("https://w0.peakpx.com/wallpaper/316/210/HD-wallpaper-modern-art-modern-digital-art.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100vw;
+    width: 99vw;
     color: black;
+    font-family: Google Sans, Arial, San-Serif, Roboto;
 }
 
 .page-title {
-    font-family: Google Sans, Arial, San-Serif, Roboto;
     font-size: 45px;
 }
 
@@ -41,7 +41,6 @@ body {
 }
 
 .page-info {
-    font-family: Google Sans, Arial, San-Serif, Roboto;
     font-size: 20px;
     padding-left: 10px;
     padding-right: 10px;
@@ -88,4 +87,67 @@ body {
     margin-top: 220px;
 }
 
-.main-footer {}
+.museum-info-head {
+    margin-left: 30px;
+}
+
+.museum-information {
+    margin-left: 35px;
+    margin-top: -20px;
+}
+
+.footer-work {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.footer-other {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-info-head {
+    margin-left: 100px;
+}
+
+.contact-information {
+    margin-left: 332px;
+    margin-top: -20px;
+}
+
+.svg-contact {
+    margin-top: -36px;
+    margin-left: 450px;
+}
+
+.mail-redirect {
+    text-decoration-line: none;
+    color: black;
+}
+
+.artist-highlights {
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+    margin-top: 220px;
+}
+
+.artist-highlights-info {
+    margin-left: 500px;
+    color: black;
+    margin-top: 50px;
+}
+
+.footer-heading {
+    margin-top: 10px;
+}
+
+.artist-highlights-section {
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
