@@ -5,5 +5,22 @@
     border: none;
     border-radius: 1px;
     padding-left: 1px;
-    margin-left: 300px;
+    margin-left: 50px;
+}
+
+.other-pages {
+    display: flex;
+}
+
+body {
+    font-family: Google Sans, san-serif, Arial, monospace;
+}
+
+.redirects-other {
+    margin-left: 20px;
+}
+
+.nav-bar {
+    width: 100px;
+    height: 1px;
 }
